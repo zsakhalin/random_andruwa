@@ -1,1 +1,1 @@
-"# development of vk bot" 
+# development of vk bot
